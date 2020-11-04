@@ -1,2 +1,3 @@
 # DemoGitHTML
-Thử sử dụng Git với GTML
+Thử làm việc với GIT và HTML
+
